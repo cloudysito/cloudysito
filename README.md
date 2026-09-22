@@ -1,16 +1,13 @@
-## Hi there 👋
+**hey, i build things**
 
-<!--
-**cloudysito/cloudysito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+backend engineer — go & python
 
-Here are some ideas to get you started:
+aiming for distributed systems next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+based in mexico · open to remote
+
+rn: building out APIRestGO — concurrent, distributed-systems-style backend in go
+
+**stack**
+
+go · python · java · mongodb · mysql 
