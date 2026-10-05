@@ -1,6 +1,6 @@
 **hey, i build things**
 
-backend engineer — go & python
+backend engineer — go, python and java
 
 aiming for distributed systems next
 
